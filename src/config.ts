@@ -1,0 +1,1 @@
+export const PRODUCT_CARD_WIDTH = '300px'
